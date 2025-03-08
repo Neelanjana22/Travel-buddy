@@ -29,4 +29,4 @@ git clone git@github.com:ycnie/Travel-Buddy.git
 7. Just run it.
 
 ## Demo
-<iframe src="https://drive.google.com/file/d/1jWlhJmlaRFkE2EcfHWcIUPPoYHYaS0dm/preview" width="640" height="360" allow="autoplay"></iframe>
+[Watch the demo video](https://drive.google.com/file/d/1jWlhJmlaRFkE2EcfHWcIUPPoYHYaS0dm/view?usp=sharing)
